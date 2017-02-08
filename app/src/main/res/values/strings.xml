@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestRecyclerView</string>
+    <string-array name="pet">
+
+        <item>cat</item>
+        <item>dog</item>
+        <item>snake</item>
+        <item>elephant</item>
+        <item>ctgt</item>
+        <item>ckbjkt</item>
+        <item>cujgu</item>
+        <item>cajg</item>
+       
+    </string-array>
+</resources>
